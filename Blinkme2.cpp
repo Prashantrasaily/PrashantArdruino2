@@ -1,6 +1,6 @@
-int led1 =11;
-int led2 = 12;
-int led3 = 13;
+int led1 =11; // first led connected to digital pin 11
+int led2 = 12;// second led connected to digital pin 11
+int led3 = 13;// third led connected to digital pin 11
 
 void setup() {
 //pinMode(LED_BUILTIN,OUTPUT );
